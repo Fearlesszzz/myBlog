@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<!--suppress ThymeleafVariablesResolveInspection -->
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>error</title>
+</head>
+
+<body>
+    <h1>error</h1>
+
+    <div th:utext="'URL : ' + ${url}" th:remove="tag"></div>
+    <div th:utext="'Exception : ' + ${exception.message}" th:remove="tag"></div>
+</body>
+</html>

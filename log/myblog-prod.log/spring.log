@@ -1,0 +1,4 @@
+2020-09-11 15:41:00.096  INFO 3120 --- [main] com.example.MyblogApplication            : Starting MyblogApplication on DESKTOP-2MJHH9A with PID 3120 (D:\springboot_project\myblog\target\classes started by Administrator in D:\springboot_project\myblog)
+2020-09-11 15:41:00.099  INFO 3120 --- [main] com.example.MyblogApplication            : The following profiles are active: prod
+2020-09-11 15:41:01.300  WARN 3120 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
+2020-09-11 15:41:01.380  INFO 3120 --- [main] com.example.MyblogApplication            : Started MyblogApplication in 1.757 seconds (JVM running for 2.521)
